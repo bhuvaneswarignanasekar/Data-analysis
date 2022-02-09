@@ -12,4 +12,4 @@ It's a gov health data which is updated every week
 
 - The dataset as 108 columns and ~400k rows
 - I am cleaning every row and generate statistics with Excel
-- Visualize in Tableau
+- Getting information by Visualizing/analysing the dataset in Tableau
